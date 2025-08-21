@@ -1,0 +1,24 @@
+[
+  {
+    "CPF": "733.960.940-77",
+    "Nome": "Marcos Junior",
+    "RG": "73.396.094-0",
+    "CEP": "770490693",
+    "Rua": "Rua Sanhaço",
+    "Bairro": "Chapada",
+    "Cidade": "Ponta Grossa",
+    "Estado": "PR",
+    "Email": "marcos@email.com"
+  },
+  {
+    "CPF": "123.456.789-00",
+    "Nome": "Maria Joana",
+    "RG": "12.345.678-9",
+    "CEP": "12345-678",
+    "Rua": "Rua Principal",
+    "Bairro": "Centro",
+    "Cidade": "Minha Cidade",
+    "Estado": "SP",
+    "Email": "maria@exemplo.com"
+  }
+]
